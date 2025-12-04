@@ -1,0 +1,35 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Johor Bahru
+    probability: 1
+  - name: Batu Pahat
+    probability: 1
+  - name: Kluang
+    probability: 1
+  - name: Kulai
+    probability: 1
+  - name: Muar
+    probability: 1
+  - name: Pasir Gudang
+    probability: 1
+  - name: Kota Tinggi
+    probability: 1
+  - name: Labis
+    probability: 1
+  - name: Mersing
+    probability: 1
+  - name: Pontian
+    probability: 1
+  - name: Segamat
+    probability: 1
+  - name: Simpang Renggam
+    probability: 1
+  - name: Tangkak
+    probability: 1
+  - name: Yong Peng
+    probability: 1
+name: Malaysia town name
+source: null
+subsets: []
